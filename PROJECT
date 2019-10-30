@@ -1,0 +1,7 @@
+version: "2"
+domain: github.com/liztio
+repo: github.com/liztio/proj
+resources:
+- group: test
+  version: v1alpha3
+  kind: TestCluster

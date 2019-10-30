@@ -1,0 +1,7 @@
+apiVersion: test.github.com/liztio/v1alpha3
+kind: TestCluster
+metadata:
+  name: testcluster-sample
+spec:
+  # Add fields here
+  foo: bar
